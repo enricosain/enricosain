@@ -1,9 +1,8 @@
-### Hi there, I'm Enrico! 👋
+### Hey there! 👋
 
-I'm an Aerospace Engineer with a passion for AI and Machine Learning.
+I'm an Aerospace Engineer who's absolutely crazy about AI and Machine Learning! But that's not all there is to me. I'm also a super proud dad of twins 🙌 and a total music lover. I can rock out on the piano, guitar, ukulele, and even the saxophone! 🎷
 
-I'm also a proud twin dad, a music player (piano, guitar, ukulele, saxophone), I love astronomy and stargazing 🔭,
-hiking and ski mountaineering in my spare time
+When I'm not knee-deep in code or playing music, you'll probably find me outside enjoying the stars 🔭. I love astronomy and stargazing, and I'm always on the lookout for the next meteor shower or lunar eclipse. But that's not all - I'm also a big fan of hiking and ski mountaineering. There's nothing like getting out into the great outdoors and pushing yourself to new heights! ⛰️
 
 - 📫 How to reach me: write an email to enrico.sain@gmail.com
 
