@@ -4,7 +4,7 @@ I'm an Aerospace Engineer who's absolutely crazy about AI and Machine Learning! 
 
 When I'm not knee-deep in code or playing music, you'll probably find me outside enjoying the stars 🔭. I love astronomy and stargazing, and I'm always on the lookout for the next meteor shower or lunar eclipse. But that's not all - I'm also a big fan of hiking and ski mountaineering. There's nothing like getting out into the great outdoors and pushing yourself to new heights! ⛰️
 
-- 📫 How to reach me: write an email to enrico.sain@gmail.com
+- 📫 How to reach me: drop me an [email](enrico.sain@gmail.com) or visit [my Linkedin account](https://www.linkedin.com/in/enrico-sain-46278317/)
 
 <!--
 **enricosain/enricosain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
